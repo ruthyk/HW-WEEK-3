@@ -28,6 +28,7 @@ function generatePassword() {
 
   // this is a minimum count for numbers, lowerCases, upperCases & specialCharacters
   var minimumCount = 8;
+  var maximumCount = 128;
 
   // Empty minimums for numbers, lowerCases, upperCases & specialCharacters
 
